@@ -38,7 +38,7 @@ const Layout = ({ children }) => {
                     />
                   </div>
                   <span className="text-lg font-medium">
-                    Headless Dropshipping Starter
+                    Merit America Swag Store
                   </span>
                 </a>
               </Link>
