@@ -103,14 +103,14 @@ const Layout = ({ children }) => {
           <p className="text-gray-600 text-sm">
             Powered by
             <a
-              href="https://headlessdropshipping.com"
-              title="Learn more about how this site was made"
+              href="https://mematthew123.github.io/"
+              title="Like this site? Hire me and yours can look this good"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-0.5 text-gray-800 hover:text-blue-600"
             >
-              Headless Dropshipping Starter
-            </a>
+                Merit America
+              </a>
           </p>
           <nav className="flex items-center justify-end space-x-3 md:space-x-6">
             <Link href="/about">

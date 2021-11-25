@@ -5,20 +5,22 @@ function TermsPage() {
       <p>
         You're viewing the{" "}
         <a
-          href="https://headlessdropshipping.com/"
-          title="Learn more about Headless Dropshipping"
+          href="https://meritamerica.org"
+          title="Learn more about Merit America"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Headless Dropshipping Starter
+          Merit America Swag Store
         </a>{" "}
-        by Jamie Barton.
+        
       </p>
       <p>
-        Build your own Headless eCommerce storefront with Next.js and Snipcart,
-        and deliver swag powered by Printful. End to end commerce, styled using
-        TailwindCSS and deployed on Vercel.
+        As a gradute of Merit America, I have a deep sense of pride and love for the program. Naturally when it came time to 
+        purchase x-mas gifts for my family and friends, i wanted to get them some Merit America gear so they could look good and spread the word
+        about a great cuase. Unfortunetly when i looked online, there was no such thing as a Merit America shop....so i made one.
+        Please feel free to browse the site and learn more about the program. 
       </p>
+      - Matthew Rhoads
     </div>
   );
 }
