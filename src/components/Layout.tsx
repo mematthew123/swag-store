@@ -38,7 +38,7 @@ const Layout = ({ children }) => {
                     />
                   </div>
                   <span className="text-lg font-medium">
-                    Merit America Swag Store
+                    Merit Swag Store
                   </span>
                 </a>
               </Link>

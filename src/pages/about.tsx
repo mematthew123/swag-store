@@ -1,4 +1,4 @@
-function TermsPage() {
+function About() {
   return (
     <div className="max-w-xl mx-auto prose prose-blue">
       <h2>Welcome</h2>
@@ -25,4 +25,4 @@ function TermsPage() {
   );
 }
 
-export default TermsPage;
+export default About;
