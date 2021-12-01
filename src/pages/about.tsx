@@ -15,9 +15,8 @@ function About() {
         
       </p>
       <p>
-        As a gradute of Merit America, I have a deep sense of pride and love for the program. Naturally when it came time to 
-        purchase x-mas gifts for my family and friends, i wanted to get them some Merit America gear so they could look good and spread the word
-        about a great cuase. Unfortunetly when i looked online, there was no such thing as a Merit America shop....so i made one.
+         Naturally when it came time to purchase x-mas gifts for my family and friends, i wanted to get them some Merit America gear so they could look good and spread the word
+        about a great cause. Unfortunetly when i looked online, there was no such thing as a Merit America shop....so i made one.
         Please feel free to browse the site and learn more about the program. 
       </p>
       - Matthew Rhoads

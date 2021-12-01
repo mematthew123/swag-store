@@ -22,7 +22,7 @@ const Layout = ({ children }) => {
                 </Link>
                 <Link href="/terms-of-sale">
                   <a className="text-gray-800 hover:text-blue-600 p-1 transition">
-                    Terms of Sale
+                    Terms
                   </a>
                 </Link>
               </nav>
@@ -109,7 +109,7 @@ const Layout = ({ children }) => {
               rel="noopener noreferrer"
               className="ml-0.5 text-gray-800 hover:text-blue-600"
             >
-                Merit America
+                Merit America 
               </a>
           </p>
           <nav className="flex items-center justify-end space-x-3 md:space-x-6">
